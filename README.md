@@ -1,2 +1,2 @@
 # Tea
- Bare-bones mod loader for 1.4.
+ You're probably looking for https://github.com/Tea-Mod-Loader/Tea.
